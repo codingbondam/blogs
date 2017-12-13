@@ -1,6 +1,5 @@
 1. Eloquent JavaScript
 2. How Linux Works
-3. Spring in Action or Spring documentation
 4. Visualize This
 5. Data Science from scratch
 6. The Healthy Programmer
