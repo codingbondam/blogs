@@ -1,0 +1,13 @@
+http://www.post-employment.com/post/154248288768/data-derived-products
+http://engineering.indeedblog.com/talks/data-driven-off-a-cliff/
+http://multithreaded.stitchfix.com/blog/
+http://www.vrmintel.com/airbnb-vs-homeaway-winning-race-top-vacation-rental-industry/
+https://medium.com/airbnb-engineering/nebula-as-a-storage-platform-to-build-airbnbs-search-backends-ecc577b05f06#.bzlcsrwdl
+https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
+https://www.homeaway.com/lp/vacation-equation/about
+http://blog.takipi.com/java-bootstrap-dropwizard-vs-spring-boot/
+http://docs.aws.amazon.com/machine-learning/latest/APIReference/API_DescribeMLModels.html
+http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf
+https://www.google.com/about/careers/students/guide-to-technical-development.html
+https://developer.yahoo.com/hadoop/tutorial/module4.html#dataflow
